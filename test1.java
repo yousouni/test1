@@ -7,7 +7,7 @@ public class test1{
 		System.out.println("sa lang");
 		System.out.println("ha eun");
 		System.out.println("love you");
-//작성자 : 하은빠똘이
+//작성자 : 하은빠똘이 h
 	}
 
 }
