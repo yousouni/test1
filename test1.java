@@ -4,6 +4,7 @@ public class test1{
 		System.out.println("Hello World!");
 		System.out.println("parkha");
 		System.out.println("eun");
+		System.out.println("sa lang");
 	}
 
 }
